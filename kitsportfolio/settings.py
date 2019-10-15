@@ -79,9 +79,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME' : 'kitsdb',
-        'USER' :'nyin',
-        'PASSWORD' :'sureman0619',
-        'HOST' : 'kitsdbinstance.cvydz4gnryqo.us-west-2.rds.amazonaws.com',
+        'USER' :'',
+        'PASSWORD' :'',
+        'HOST' : '',
         'PORT' :'3306',
     }
 }
